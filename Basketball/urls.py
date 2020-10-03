@@ -36,5 +36,6 @@ urlpatterns = [
     path('page1/', views.page1),
     path('team_list/', views.team_list),
     path('team_info/', views.team_info),
+    path('area/', views.get_area),
 ]
 

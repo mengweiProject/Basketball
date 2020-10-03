@@ -169,3 +169,7 @@ def team_info(request):
     print(request.GET.get("name"))
     return HttpResponse(name)
     # return render(request, "team_info.html")
+
+
+def get_area(request):
+    return HttpResponse("地区")
