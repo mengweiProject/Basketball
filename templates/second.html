@@ -1,0 +1,170 @@
+
+<!-- saved from url=(0028)http://www.jq22.com/code3501 -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style>* {
+    box-sizing: border-box;
+}
+
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: black;
+    color: #666;
+    font-family: sans-serif;
+    font-size: 16px;
+    overscroll-behavior: none;
+    
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 100vh;
+}
+
+#container {
+    width: 90vw;
+    height: 90vh;
+}
+
+#title {
+    text-align: center;
+    width: 100%;
+    padding: 10px 0 10px 0;
+}
+
+#box {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: #666;
+    overflow: hidden;
+    /*cursor: none;*/
+    border: 1px solid #333;
+    
+    -webkit-tap-highlight-color: rgba(0,0,0,0);
+	-webkit-user-select: none;
+}
+
+.shadow__wall {
+    position: absolute;
+    top: 50%;
+    left: 0;
+    width: 100%;
+}
+
+#shadow__text {
+    position: absolute;
+    width: 100%;
+    margin: 0;
+    color: #999;
+    font-family: Helvetica, Arial, sans-serif;
+    font-size: 5rem;
+    font-weight: bold;
+    text-align: center;
+    white-space: nowrap;
+}
+
+.shadow__box {
+    position: absolute;
+    background: #999;
+    top: 4.5rem;
+    height: 50vh;
+}
+
+#shadow__box--back {
+    left: -5%;
+    width: 110%;
+}
+
+#shadow__box--front {
+    left: 0;
+    width: 100%;
+}
+
+#shadow__spot {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200%;
+    height: 200%;
+    background: -webkit-gradient(radial, center center, 0, center center, 250, from(rgba(0,0,0,0)), to(rgba(0,0,0,1)));
+}
+</style><script src="/static/js/jquery-1.10.2.js"></script><script src="/static/js/jquery.min(1).js"></script></head><body style=""><div id="container">
+    <div id="title">将光标移到框上以使用聚光灯投射阴影。</div>
+    <div id="box">
+        <div class="shadow__wall">
+            <div class="shadow__box" id="shadow__box--back" style="box-shadow: black 0px 66px 76px;"></div>
+            <p id="shadow__text" style="text-shadow: black 456px 66px 56px;">上午12:00:24</p>
+            <div class="shadow__box" id="shadow__box--front"></div>
+        </div>
+        <div id="shadow__spot" style="background-position: -1048px -446.5px;"></div>
+    </div>
+</div>
+<script>const textElem = document.querySelector('#shadow__text');
+const spotElem = document.querySelector('#shadow__spot');
+const boxElem = document.querySelector('#shadow__box--back');
+
+const container = document.querySelector('#box');
+var width = container.offsetWidth;
+var height = container.offsetHeight;
+
+const relMousePos = {
+    _x: 0, _y: 0, x: 0, y: 0,
+    updatePos: function(e) {
+        const event = (e || window.event) && (e.touches && e.touches[0]) || e;
+        this.x = event.clientX - this._x;
+        this.y = event.clientY - this._y;
+    },
+    setOrigin: function(e) {
+        this._x = e.offsetLeft + Math.floor(e.offsetWidth / 2);
+        this._y = e.offsetTop + Math.floor(e.offsetHeight / 2);
+    }
+}
+relMousePos.setOrigin(container);
+container.addEventListener('mousemove', relMousePos.updatePos);
+
+function updateSize(e) {
+    width = container.offsetWidth;
+    height = container.offsetHeight;
+    relMousePos.setOrigin(container);
+    
+    onMouseMove({clientX: relMousePos._x, clientY: relMousePos._y + 25});
+}
+
+function updateTime() {
+    let date = new Date();
+    let time = date.toLocaleTimeString();
+    textElem.innerText = time;
+    
+    setTimeout(updateTime, 1000);
+}
+
+function onMouseMove(e) {
+    relMousePos.updatePos(e);
+    
+    var xm = relMousePos.x;
+    var ym = relMousePos.y;
+
+    var d = Math.round(Math.sqrt(xm*xm + ym*ym) / 10);
+    textElem.style.textShadow = -xm + 'px ' + -ym + 'px ' + (d + 10) + 'px black';    
+    boxElem.style.boxShadow = '0 ' + -ym + 'px ' + (d + 30) + 'px black';    
+    spotElem.style.backgroundPosition = (xm - (width / 2)) + 'px ' + (ym - (height / 2)) + 'px';
+}
+
+function init() {  
+    updateTime();
+    
+    container.addEventListener('mousemove', onMouseMove);
+    container.addEventListener('touchmove', function (e) {
+        e.preventDefault();
+        e.stopPropagation();
+        onMouseMove(e);
+    }, {passive: false});
+    
+    onMouseMove({clientX: relMousePos._x, clientY: relMousePos._y + 25});
+}
+
+document.addEventListener('resize', updateSize);
+document.addEventListener('DOMContentLoaded', init);
+</script></body></html>

@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>球员基本信息</title>
+</head>
+
+<!--{{ players }}-->
+
+<body>
+<h2>登录成功</h2>
+<table border="1">
+    <tr>
+        <td>姓名</td>
+        <td>年龄</td>
+        <td>号码</td>
+        <td>所在球队</td>
+        <td>位置</td>
+        <td>国籍</td>
+        <td>编辑</td>
+    </tr>
+    {% for i in players %}
+    <!--<h3>{{ i.NAME }}{{ i.AGE }}{{ i.HEIGHT }}{{ i.POSITION }}{{ i.NATIONALITY }}</h3>-->
+
+    <tr>
+        <td>{{ i.NAME }}</td>
+        <td>{{ i.AGE }}</td>
+        <td>{{ i.NUMBER }}</td>
+        <td>{{ i.TEAM }}</td>
+        <td>{{ i.POSITION }}</td>
+        <td>{{ i.NATIONALITY }}</td>
+        <td><a href="/del_player/?id={{ i.ID }}">删除</a> <a href="/modify_player/?id={{ i.ID }}">修改</a></td>
+    </tr>
+    {% endfor  %}
+</table>
+
+<a href="/add_player/">新增</a>
+<h1 align="center"><a href="/index">新的主页</a></h1>
+
+</body>
+</html>

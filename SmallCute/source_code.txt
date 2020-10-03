@@ -1,0 +1,1308 @@
+
+<html>
+<HEAD>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="keywords" content="免费在线翻译,例句搜索">
+<meta name="description" content="句酷搜索引擎为英语学习者提供免费在线词典,在线翻译,例句搜索(study native English)">
+<title>'breath'的翻译、'breath'的解释、双语例句、在线造句 - 句酷中英双语例句</title>
+<LINK href="css/main.css" type="text/css" rel="stylesheet">
+<link rel="shortcut icon" href="images/logo.ico" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/thickbox.js"></script>
+<script type="text/javascript" src="js/viewpy.js"></script>
+<link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen" >
+<link rel="stylesheet" href="css/suggest1.css" type="text/css" media="screen">
+<script type="text/javascript" src="js/suggest.js"></script>
+</HEAD>
+<body>
+<div onClick="hideSuggestions();">
+<form id="Frm1" style="MARGIN: 0px" action="search.php" method="get">
+<table width="930" align="center">
+<tr>
+<td width="170"><FONT face="宋体"><A href="index.php"><img src="images/search.gif" border="0"></A></FONT></td>
+<TD width="*">
+<table height="100%" width="710" border="0">
+<tr>
+<td align="right">
+</td>
+</tr>
+<tr valign=top>
+<td valign="middle">
+<input onmouseover="this.focus()" onfocus="this.select()" autocomplete="off" size=40  name="q" type="text" class="input1" id="q" maxlength="100" style="width:280px;" value="breath" onKeyUp="handleKeyUp(event);"/>&nbsp;
+<!-- <input type="submit" value="句酷一下" id="ButtonSearch" class="input2" />&nbsp;<span style="position:relative; left:10px; top:10px"><a href="/help/002.htm"><u>帮助</u></a><a href="/help/02.htm" target="_blank" style="color:red"><u>招聘英语教师和语料库研究员</u></a> -->
+<input type="submit" value="句酷一下" id="ButtonSearch" class="input2" />&nbsp;<span style="position:relative; left:10px; top:10px"><a href="/help/002.htm"><u>帮助</u></a><a href="/worddetail/more" target="_blank" style="color:red"><u>单词辨析</u></a>
+
+<span class="conn"><a href="login.php">登录</a>|<a href="reg.php">注册</a></span>
+</form>
+</td>
+<td>
+</tr>
+</table>
+<div class="index_suggest_div">
+<div  id="scroll3">
+<div id="scroll">
+<div id="suggest"></div>
+</div>
+</div>
+</div>
+</TD>
+</tr>
+</table><TABLE id="Table2" cellSpacing="0" cellPadding="0" width="930" align="center" bgColor="#ffffff">
+<TR id="TR1" align="center" bgColor="#D9E1F7" runat="server">
+<TD width="100" bgColor="#D9E1F7">&nbsp;&nbsp;&nbsp;</TD>
+<TD class="head" style="font-size:12px;COLOR: #000000" align="right" > <div>找到相关的双语例句约1760条</div></TD>
+</TR>
+</TABLE>
+<!-- sentence search-->
+<TABLE id="Table1" style="Z-INDEX: 101" cellSpacing="1" cellPadding="1" width="930" align="center" border="0">
+<tr>
+<td width="16%" style="padding-top:10px; padding-bottom:10px" valign=top>
+
+<!--table width="600" style=" border:1px solid #EFF2FC; background-color:#F5F5F5">
+
+<span style="padding:3,3,3,3; font-size:12px ">
+
+</span>
+</table-->
+<!--
+<a href="../jukuu2010/jukuu.php?q=breath&type=bisent" target="_blank"><img src="./images/TiYan_jukuu2010.jpg" width="650" height="50" border="0" /></a>
+<br>
+-->
+<table width="680">
+<tr><td colspan="5">
+
+</td></tr>
+<tr class=e><td vAlign=top>1. </td><td> He could withstand David's punches longer than David could hold his <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 他可以忍受大卫的拳头，而大卫却不能长时间屏住呼吸。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107066516'><a href='javascript:void(0)' onclick='RmdSent(107066516)'><u>好评(29)</u></a></td>
+<td id='report_107066516'><a href='javascript:void()' onclick='ReportSent(107066516)'><u>差评(5)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>2. </td><td> The joggers paused to catch their <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 慢跑者们暂停下来以便呼吸。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107250912'><a href='javascript:void(0)' onclick='RmdSent(107250912)'><u>好评(17)</u></a></td>
+<td id='report_107250912'><a href='javascript:void()' onclick='ReportSent(107250912)'><u>差评(2)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>3. </td><td> Religion is the <b>breath</b> of life to/for her. </td></tr>
+<tr class=c><td></td><td> 宗教是她不可或缺的精神支柱. </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107192815'><a href='javascript:void(0)' onclick='RmdSent(107192815)'><u>好评(12)</u></a></td>
+<td id='report_107192815'><a href='javascript:void()' onclick='ReportSent(107192815)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>4. </td><td> His <b>breath</b> reeks of onions. </td></tr>
+<tr class=c><td></td><td> 他口里散发出洋葱的臭味。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107101623'><a href='javascript:void(0)' onclick='RmdSent(107101623)'><u>好评(12)</u></a></td>
+<td id='report_107101623'><a href='javascript:void()' onclick='ReportSent(107101623)'><u>差评(1)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>5. </td><td> He's never been short of <b>breath</b> on exertion. </td></tr>
+<tr class=c><td></td><td> 他在用力时从来没有气短过。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107062135'><a href='javascript:void(0)' onclick='RmdSent(107062135)'><u>好评(10)</u></a></td>
+<td id='report_107062135'><a href='javascript:void()' onclick='ReportSent(107062135)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>6. </td><td> Ashurst took a mighty <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 艾舍斯特使劲吸了一口气。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107026448'><a href='javascript:void(0)' onclick='RmdSent(107026448)'><u>好评(10)</u></a></td>
+<td id='report_107026448'><a href='javascript:void()' onclick='ReportSent(107026448)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>7. </td><td> He came up to the boundary fence, and stood to regain <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 他来到了隔篱旁，站在那里喘着气。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107065031'><a href='javascript:void(0)' onclick='RmdSent(107065031)'><u>好评(11)</u></a></td>
+<td id='report_107065031'><a href='javascript:void()' onclick='ReportSent(107065031)'><u>差评(1)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>8. </td><td> Draw in a deep <b>breath</b> and let it out slowly. </td></tr>
+<tr class=c><td></td><td> 深深吸一口气,然后慢慢呼出。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107046981'><a href='javascript:void(0)' onclick='RmdSent(107046981)'><u>好评(12)</u></a></td>
+<td id='report_107046981'><a href='javascript:void()' onclick='ReportSent(107046981)'><u>差评(2)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>9. </td><td> He spoke a harsh, bitter word under his <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 他小声地说了句不客气的挖苦话。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107087288'><a href='javascript:void(0)' onclick='RmdSent(107087288)'><u>好评(13)</u></a></td>
+<td id='report_107087288'><a href='javascript:void()' onclick='ReportSent(107087288)'><u>差评(3)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>10. </td><td> All Europe held its <b>breath</b> to see who would win the election. </td></tr>
+<tr class=c><td></td><td> 全欧洲屏息而待,看谁能赢得这场选举。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107017634'><a href='javascript:void(0)' onclick='RmdSent(107017634)'><u>好评(14)</u></a></td>
+<td id='report_107017634'><a href='javascript:void()' onclick='ReportSent(107017634)'><u>差评(7)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+</table></td>
+<TD width="70%" valign="top"  style="width: 100%; padding-top:10px">
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">英汉词典</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><tr><td><b>breath</b>: [ bre&#952; ]&nbsp;<script language='javascript'>insertaudio('sound/b/breath')</script>&nbsp;</td></tr><tr><td style='font-size:12px;padding-top:10px'></td></tr><tr><td style='font-size:12px'>n. <a href='show-breath+呼吸-0.html'><font color=olive><u>呼吸</u></font> </a><a href='show-breath+气-0.html' style=color:#3d3d3d><font color=olive><u>气</u></font> </a><a href='show-breath+一口气-0.html' style=color:#454545><font color=olive><u>一口气</u></font> </a><a href='show-breath+气息-0.html' style=color:#808080><font color=olive><u>气息</u></font> </a><a href='show-breath+一气-0.html' style=color:#808080><font color=olive><u>一气</u></font> </a><a href='show-breath+生命-0.html' style=color:#808080><font color=olive><u>生命</u></font> </a><a href='show-breath+生气-0.html' style=color:#808080><font color=olive><u>生气</u></font> </a><a href='show-breath+微风-0.html' style=color:#808080><font color=olive><u>微风</u></font> </a><br>v. <a href='show-breath+呼吸-0.html'><font color=olive><u>呼吸</u></font> </a><br>
+</td></tr></div>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">释义分布</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><img src='http://chart.apis.google.com/chart?cht=p&chd=t:16,11,8,8,8,8,8,8,8,16&chs=200x120&chl=%E5%91%BC%E5%90%B8%7C%E4%B8%80%E5%8F%A3%E6%B0%94%7C%E6%B0%94%E6%81%AF%7C%E4%B8%80%E6%B0%94%7C%E7%94%9F%E5%91%BD%7C%E7%94%9F%E6%B0%94%7C%E5%BE%AE%E9%A3%8E%7C%E6%B4%8B%E8%91%B1%7C%E6%81%AF%7C%E5%91%BC%E5%90%B8'/></div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">词性分布</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><img src='http://chart.apis.google.com/chart?cht=p&chd=t:100&chs=200x120&chl=%E5%90%8D%E8%AF%8D'/></div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见介词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-out of+breath-0.html'><span style='color:olive'><u>out of</u></span></a> <a href='show-under+breath-0.html'><span style='color:olive'><u>under</u></span></a> <a href='show-with+breath-0.html'><span style='color:olive'><u>with</u></span></a> <a href='show-short of+breath-0.html'><span style='color:olive'><u>short of</u></span></a> <a href='show-after+breath-0.html'><span style='color:olive'><u>after</u></span></a> <a href='show-like+breath-0.html'><span style='color:olive'><u>like</u></span></a> <a href='show-from+breath-0.html'><span style='color:olive'><u>from</u></span></a> <a href='show-by+breath-0.html'><span style='color:olive'><u>by</u></span></a> <a href='show-as+breath-0.html'><span style='color:olive'><u>as</u></span></a> <a href='show-without+breath-0.html'><span style='color:olive'><u>without</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见形容词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-deep+breath-0.html'><span style='color:olive'><u>deep</u></span></a> <a href='show-same+breath-0.html'><span style='color:olive'><u>same</u></span></a> <a href='show-last+breath-0.html'><span style='color:olive'><u>last</u></span></a> <a href='show-long+breath-0.html'><span style='color:olive'><u>long</u></span></a> <a href='show-bad+breath-0.html'><span style='color:olive'><u>bad</u></span></a> <a href='show-first+breath-0.html'><span style='color:olive'><u>first</u></span></a> <a href='show-great+breath-0.html'><span style='color:olive'><u>great</u></span></a> <a href='show-thin+breath-0.html'><span style='color:olive'><u>thin</u></span></a> <a href='show-warm+breath-0.html'><span style='color:olive'><u>warm</u></span></a> <a href='show-fresh+breath-0.html'><span style='color:olive'><u>fresh</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见动词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-take+breath-0.html'><span style='color:olive'><u>take</u></span></a> <a href='show-hold+breath-0.html'><span style='color:olive'><u>hold</u></span></a> <a href='show-draw+breath-0.html'><span style='color:olive'><u>draw</u></span></a> <a href='show-catch+breath-0.html'><span style='color:olive'><u>catch</u></span></a> <a href='show-waste+breath-0.html'><span style='color:olive'><u>waste</u></span></a> <a href='show-save+breath-0.html'><span style='color:olive'><u>save</u></span></a> <a href='show-feel+breath-0.html'><span style='color:olive'><u>feel</u></span></a> <a href='show-get+breath-0.html'><span style='color:olive'><u>get</u></span></a> <a href='show-have+breath-0.html'><span style='color:olive'><u>have</u></span></a> <a href='show-let out+breath-0.html'><span style='color:olive'><u>let out</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<!--a href='submit.php'><img border=0 src="images/liju.gif"></a-->
+<br>
+
+
+
+
+</TD>
+</table>
+</TR>
+</table><p align='center'>
+&nbsp;&nbsp;<span><font color=#000000>1</font></span>&nbsp;&nbsp;<a href='show-breath-1.html'>[2]</a><a href='show-breath-2.html'>[3]</a><a href='show-breath-3.html'>[4]</a><a href='show-breath-4.html'>[5]</a><a href='show-breath-5.html'>[6]</a><a href='show-breath-6.html'>[7]</a><a href='show-breath-7.html'>[8]</a><a href='show-breath-8.html'>[9]</a><a href='show-breath-9.html'>[10]</a><a href='show-breath-1.html'>下一页</a>
+</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- new -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4785236016322524"
+     data-ad-slot="3193640830"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+<div class="div1">
+  <form name="form1" method="get" action="search.php">
+  <table cellspacing='0' cellpadding='0' class='ftable'>
+  <tr>
+  <td width='200'>&nbsp;</td>
+  <td width='288'><input name="q" type="text" class="input1" value= "breath" style="width:280px;top:0px">&nbsp;&nbsp</td>
+  <td width='80'><input name="" type="submit" class="input2" value="句酷一下" style="top:0px"></td>
+  <td width='68'><a href="/quality_form.html">与句酷对话</a></td>
+  <td>&nbsp;</td>
+  </tr>
+  </table>
+    </form>
+</div><br/>
+<p align=center><FONT size=2><A style="FONT-FAMILY: arial,sans-serif"
+href="help/001.htm" target="_blank">使用帮助</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/more.htm" target="_blank">句酷大全</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/mianze.htm" target="_blank">免责声明</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/hezuo.htm" target="_blank">合作联盟</A></FONT></p>
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/2320338.js"></script>
+<noscript><a href="http://www.51.la/?2320338" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/2320338.asp" style="border:none" /></a></noscript>
+</body>
+</html>
+
+<html>
+<HEAD>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="keywords" content="免费在线翻译,例句搜索">
+<meta name="description" content="句酷搜索引擎为英语学习者提供免费在线词典,在线翻译,例句搜索(study native English)">
+<title>'breath'的翻译、'breath'的解释、双语例句、在线造句 - 句酷中英双语例句</title>
+<LINK href="css/main.css" type="text/css" rel="stylesheet">
+<link rel="shortcut icon" href="images/logo.ico" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/thickbox.js"></script>
+<script type="text/javascript" src="js/viewpy.js"></script>
+<link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen" >
+<link rel="stylesheet" href="css/suggest1.css" type="text/css" media="screen">
+<script type="text/javascript" src="js/suggest.js"></script>
+</HEAD>
+<body>
+<div onClick="hideSuggestions();">
+<form id="Frm1" style="MARGIN: 0px" action="search.php" method="get">
+<table width="930" align="center">
+<tr>
+<td width="170"><FONT face="宋体"><A href="index.php"><img src="images/search.gif" border="0"></A></FONT></td>
+<TD width="*">
+<table height="100%" width="710" border="0">
+<tr>
+<td align="right">
+</td>
+</tr>
+<tr valign=top>
+<td valign="middle">
+<input onmouseover="this.focus()" onfocus="this.select()" autocomplete="off" size=40  name="q" type="text" class="input1" id="q" maxlength="100" style="width:280px;" value="breath" onKeyUp="handleKeyUp(event);"/>&nbsp;
+<!-- <input type="submit" value="句酷一下" id="ButtonSearch" class="input2" />&nbsp;<span style="position:relative; left:10px; top:10px"><a href="/help/002.htm"><u>帮助</u></a><a href="/help/02.htm" target="_blank" style="color:red"><u>招聘英语教师和语料库研究员</u></a> -->
+<input type="submit" value="句酷一下" id="ButtonSearch" class="input2" />&nbsp;<span style="position:relative; left:10px; top:10px"><a href="/help/002.htm"><u>帮助</u></a><a href="/worddetail/more" target="_blank" style="color:red"><u>单词辨析</u></a>
+
+<span class="conn"><a href="login.php">登录</a>|<a href="reg.php">注册</a></span>
+</form>
+</td>
+<td>
+</tr>
+</table>
+<div class="index_suggest_div">
+<div  id="scroll3">
+<div id="scroll">
+<div id="suggest"></div>
+</div>
+</div>
+</div>
+</TD>
+</tr>
+</table><TABLE id="Table2" cellSpacing="0" cellPadding="0" width="930" align="center" bgColor="#ffffff">
+<TR id="TR1" align="center" bgColor="#D9E1F7" runat="server">
+<TD width="100" bgColor="#D9E1F7">&nbsp;&nbsp;&nbsp;</TD>
+<TD class="head" style="font-size:12px;COLOR: #000000" align="right" > <div>找到相关的双语例句约1760条</div></TD>
+</TR>
+</TABLE>
+<!-- sentence search-->
+<TABLE id="Table1" style="Z-INDEX: 101" cellSpacing="1" cellPadding="1" width="930" align="center" border="0">
+<tr>
+<td width="16%" style="padding-top:10px; padding-bottom:10px" valign=top>
+
+<!--table width="600" style=" border:1px solid #EFF2FC; background-color:#F5F5F5">
+
+<span style="padding:3,3,3,3; font-size:12px ">
+
+</span>
+</table-->
+<!--
+<a href="../jukuu2010/jukuu.php?q=breath&type=bisent" target="_blank"><img src="./images/TiYan_jukuu2010.jpg" width="650" height="50" border="0" /></a>
+<br>
+-->
+<table width="680">
+<tr><td colspan="5">
+
+</td></tr>
+<tr class=e><td vAlign=top>11. </td><td> "In one <b>breath</b> he said ""yes"" and in the next he said ""no""!" </td></tr>
+<tr class=c><td></td><td> 他先说“同意”，可后来又说“不同意”。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107002324'><a href='javascript:void(0)' onclick='RmdSent(107002324)'><u>好评(11)</u></a></td>
+<td id='report_107002324'><a href='javascript:void()' onclick='ReportSent(107002324)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>12. </td><td> If that terrible noise is going on, you can save your <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 如果那讨厌的闹声还不停的话，你可以不必费口舌了。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107137203'><a href='javascript:void(0)' onclick='RmdSent(107137203)'><u>好评(11)</u></a></td>
+<td id='report_107137203'><a href='javascript:void()' onclick='ReportSent(107137203)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>13. </td><td> Their <b>breath</b> steamed. </td></tr>
+<tr class=c><td></td><td> 她们呼出的气息袅袅上升。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107285170'><a href='javascript:void(0)' onclick='RmdSent(107285170)'><u>好评(12)</u></a></td>
+<td id='report_107285170'><a href='javascript:void()' onclick='ReportSent(107285170)'><u>差评(2)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>14. </td><td> <b>Breath</b> informs the body. </td></tr>
+<tr class=c><td></td><td> 呼吸使身体有活力。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107032213'><a href='javascript:void(0)' onclick='RmdSent(107032213)'><u>好评(10)</u></a></td>
+<td id='report_107032213'><a href='javascript:void()' onclick='ReportSent(107032213)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>15. </td><td> She took a deep <b>breath</b> and lowered her voice. </td></tr>
+<tr class=c><td></td><td> 他长舒了一口气，降低了嗓门。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107208492'><a href='javascript:void(0)' onclick='RmdSent(107208492)'><u>好评(10)</u></a></td>
+<td id='report_107208492'><a href='javascript:void()' onclick='ReportSent(107208492)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>16. </td><td> Don't speak above your <b>breath</b>, or I'll choke you in good earnest. </td></tr>
+<tr class=c><td></td><td> 声音不要比出气的声音高，否则我就当真把你掐死。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107046120'><a href='javascript:void(0)' onclick='RmdSent(107046120)'><u>好评(10)</u></a></td>
+<td id='report_107046120'><a href='javascript:void()' onclick='ReportSent(107046120)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>17. </td><td> Her <b>breath</b> on his face stirred his deepest feelings. </td></tr>
+<tr class=c><td></td><td> 她那呼出的气息，把他深藏在心底深处的感情都给激发出来了。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107097899'><a href='javascript:void(0)' onclick='RmdSent(107097899)'><u>好评(10)</u></a></td>
+<td id='report_107097899'><a href='javascript:void()' onclick='ReportSent(107097899)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>18. </td><td> He felt a <b>breath</b> of cool air on his face. </td></tr>
+<tr class=c><td></td><td> 他觉得有一股冷风扑向自己的脸上。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107069231'><a href='javascript:void(0)' onclick='RmdSent(107069231)'><u>好评(10)</u></a></td>
+<td id='report_107069231'><a href='javascript:void()' onclick='ReportSent(107069231)'><u>差评(1)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>19. </td><td> Peter heard him suck in <b>breath</b> through his teeth. </td></tr>
+<tr class=c><td></td><td> 彼得听到他从牙缝中倒抽一口冷气。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107187763'><a href='javascript:void(0)' onclick='RmdSent(107187763)'><u>好评(10)</u></a></td>
+<td id='report_107187763'><a href='javascript:void()' onclick='ReportSent(107187763)'><u>差评(1)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>20. </td><td> He sometimes spoke blank verse under his <b>breath</b> to imaginary dark women. </td></tr>
+<tr class=c><td></td><td> 他常常低声地对着一个理想中的黑头发女人吟着一首无韵诗。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107086987'><a href='javascript:void(0)' onclick='RmdSent(107086987)'><u>好评(10)</u></a></td>
+<td id='report_107086987'><a href='javascript:void()' onclick='ReportSent(107086987)'><u>差评(2)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+</table></td>
+<TD width="70%" valign="top"  style="width: 100%; padding-top:10px">
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">英汉词典</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><tr><td><b>breath</b>: [ bre&#952; ]&nbsp;<script language='javascript'>insertaudio('sound/b/breath')</script>&nbsp;</td></tr><tr><td style='font-size:12px;padding-top:10px'></td></tr><tr><td style='font-size:12px'>n. <a href='show-breath+呼吸-0.html'><font color=olive><u>呼吸</u></font> </a><a href='show-breath+气-0.html' style=color:#3d3d3d><font color=olive><u>气</u></font> </a><a href='show-breath+一口气-0.html' style=color:#454545><font color=olive><u>一口气</u></font> </a><a href='show-breath+气息-0.html' style=color:#808080><font color=olive><u>气息</u></font> </a><a href='show-breath+一气-0.html' style=color:#808080><font color=olive><u>一气</u></font> </a><a href='show-breath+生命-0.html' style=color:#808080><font color=olive><u>生命</u></font> </a><a href='show-breath+生气-0.html' style=color:#808080><font color=olive><u>生气</u></font> </a><a href='show-breath+微风-0.html' style=color:#808080><font color=olive><u>微风</u></font> </a><br>v. <a href='show-breath+呼吸-0.html'><font color=olive><u>呼吸</u></font> </a><br>
+</td></tr></div>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">释义分布</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><img src='http://chart.apis.google.com/chart?cht=p&chd=t:16,11,8,8,8,8,8,8,8,16&chs=200x120&chl=%E5%91%BC%E5%90%B8%7C%E4%B8%80%E5%8F%A3%E6%B0%94%7C%E6%B0%94%E6%81%AF%7C%E4%B8%80%E6%B0%94%7C%E7%94%9F%E5%91%BD%7C%E7%94%9F%E6%B0%94%7C%E5%BE%AE%E9%A3%8E%7C%E6%B4%8B%E8%91%B1%7C%E6%81%AF%7C%E5%91%BC%E5%90%B8'/></div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">词性分布</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><img src='http://chart.apis.google.com/chart?cht=p&chd=t:100&chs=200x120&chl=%E5%90%8D%E8%AF%8D'/></div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见介词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-out of+breath-0.html'><span style='color:olive'><u>out of</u></span></a> <a href='show-under+breath-0.html'><span style='color:olive'><u>under</u></span></a> <a href='show-with+breath-0.html'><span style='color:olive'><u>with</u></span></a> <a href='show-short of+breath-0.html'><span style='color:olive'><u>short of</u></span></a> <a href='show-after+breath-0.html'><span style='color:olive'><u>after</u></span></a> <a href='show-like+breath-0.html'><span style='color:olive'><u>like</u></span></a> <a href='show-from+breath-0.html'><span style='color:olive'><u>from</u></span></a> <a href='show-by+breath-0.html'><span style='color:olive'><u>by</u></span></a> <a href='show-as+breath-0.html'><span style='color:olive'><u>as</u></span></a> <a href='show-without+breath-0.html'><span style='color:olive'><u>without</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见形容词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-deep+breath-0.html'><span style='color:olive'><u>deep</u></span></a> <a href='show-same+breath-0.html'><span style='color:olive'><u>same</u></span></a> <a href='show-last+breath-0.html'><span style='color:olive'><u>last</u></span></a> <a href='show-long+breath-0.html'><span style='color:olive'><u>long</u></span></a> <a href='show-bad+breath-0.html'><span style='color:olive'><u>bad</u></span></a> <a href='show-first+breath-0.html'><span style='color:olive'><u>first</u></span></a> <a href='show-great+breath-0.html'><span style='color:olive'><u>great</u></span></a> <a href='show-thin+breath-0.html'><span style='color:olive'><u>thin</u></span></a> <a href='show-warm+breath-0.html'><span style='color:olive'><u>warm</u></span></a> <a href='show-fresh+breath-0.html'><span style='color:olive'><u>fresh</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见动词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-take+breath-0.html'><span style='color:olive'><u>take</u></span></a> <a href='show-hold+breath-0.html'><span style='color:olive'><u>hold</u></span></a> <a href='show-draw+breath-0.html'><span style='color:olive'><u>draw</u></span></a> <a href='show-catch+breath-0.html'><span style='color:olive'><u>catch</u></span></a> <a href='show-waste+breath-0.html'><span style='color:olive'><u>waste</u></span></a> <a href='show-save+breath-0.html'><span style='color:olive'><u>save</u></span></a> <a href='show-feel+breath-0.html'><span style='color:olive'><u>feel</u></span></a> <a href='show-get+breath-0.html'><span style='color:olive'><u>get</u></span></a> <a href='show-have+breath-0.html'><span style='color:olive'><u>have</u></span></a> <a href='show-let out+breath-0.html'><span style='color:olive'><u>let out</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<!--a href='submit.php'><img border=0 src="images/liju.gif"></a-->
+<br>
+
+
+
+
+</TD>
+</table>
+</TR>
+</table><p align='center'>
+<a href='show-breath-0.html'>上一页</a><a href='show-breath-0.html'>[1]</a>&nbsp;&nbsp;<span><font color=#000000>2</font></span>&nbsp;&nbsp;<a href='show-breath-2.html'>[3]</a><a href='show-breath-3.html'>[4]</a><a href='show-breath-4.html'>[5]</a><a href='show-breath-5.html'>[6]</a><a href='show-breath-6.html'>[7]</a><a href='show-breath-7.html'>[8]</a><a href='show-breath-8.html'>[9]</a><a href='show-breath-9.html'>[10]</a><a href='show-breath-2.html'>下一页</a>
+</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- new -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4785236016322524"
+     data-ad-slot="3193640830"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+<div class="div1">
+  <form name="form1" method="get" action="search.php">
+  <table cellspacing='0' cellpadding='0' class='ftable'>
+  <tr>
+  <td width='200'>&nbsp;</td>
+  <td width='288'><input name="q" type="text" class="input1" value= "breath" style="width:280px;top:0px">&nbsp;&nbsp</td>
+  <td width='80'><input name="" type="submit" class="input2" value="句酷一下" style="top:0px"></td>
+  <td width='68'><a href="/quality_form.html">与句酷对话</a></td>
+  <td>&nbsp;</td>
+  </tr>
+  </table>
+    </form>
+</div><br/>
+<p align=center><FONT size=2><A style="FONT-FAMILY: arial,sans-serif"
+href="help/001.htm" target="_blank">使用帮助</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/more.htm" target="_blank">句酷大全</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/mianze.htm" target="_blank">免责声明</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/hezuo.htm" target="_blank">合作联盟</A></FONT></p>
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/2320338.js"></script>
+<noscript><a href="http://www.51.la/?2320338" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/2320338.asp" style="border:none" /></a></noscript>
+</body>
+</html>
+
+<html>
+<HEAD>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="keywords" content="免费在线翻译,例句搜索">
+<meta name="description" content="句酷搜索引擎为英语学习者提供免费在线词典,在线翻译,例句搜索(study native English)">
+<title>'breath'的翻译、'breath'的解释、双语例句、在线造句 - 句酷中英双语例句</title>
+<LINK href="css/main.css" type="text/css" rel="stylesheet">
+<link rel="shortcut icon" href="images/logo.ico" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/thickbox.js"></script>
+<script type="text/javascript" src="js/viewpy.js"></script>
+<link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen" >
+<link rel="stylesheet" href="css/suggest1.css" type="text/css" media="screen">
+<script type="text/javascript" src="js/suggest.js"></script>
+</HEAD>
+<body>
+<div onClick="hideSuggestions();">
+<form id="Frm1" style="MARGIN: 0px" action="search.php" method="get">
+<table width="930" align="center">
+<tr>
+<td width="170"><FONT face="宋体"><A href="index.php"><img src="images/search.gif" border="0"></A></FONT></td>
+<TD width="*">
+<table height="100%" width="710" border="0">
+<tr>
+<td align="right">
+</td>
+</tr>
+<tr valign=top>
+<td valign="middle">
+<input onmouseover="this.focus()" onfocus="this.select()" autocomplete="off" size=40  name="q" type="text" class="input1" id="q" maxlength="100" style="width:280px;" value="breath" onKeyUp="handleKeyUp(event);"/>&nbsp;
+<!-- <input type="submit" value="句酷一下" id="ButtonSearch" class="input2" />&nbsp;<span style="position:relative; left:10px; top:10px"><a href="/help/002.htm"><u>帮助</u></a><a href="/help/02.htm" target="_blank" style="color:red"><u>招聘英语教师和语料库研究员</u></a> -->
+<input type="submit" value="句酷一下" id="ButtonSearch" class="input2" />&nbsp;<span style="position:relative; left:10px; top:10px"><a href="/help/002.htm"><u>帮助</u></a><a href="/worddetail/more" target="_blank" style="color:red"><u>单词辨析</u></a>
+
+<span class="conn"><a href="login.php">登录</a>|<a href="reg.php">注册</a></span>
+</form>
+</td>
+<td>
+</tr>
+</table>
+<div class="index_suggest_div">
+<div  id="scroll3">
+<div id="scroll">
+<div id="suggest"></div>
+</div>
+</div>
+</div>
+</TD>
+</tr>
+</table><TABLE id="Table2" cellSpacing="0" cellPadding="0" width="930" align="center" bgColor="#ffffff">
+<TR id="TR1" align="center" bgColor="#D9E1F7" runat="server">
+<TD width="100" bgColor="#D9E1F7">&nbsp;&nbsp;&nbsp;</TD>
+<TD class="head" style="font-size:12px;COLOR: #000000" align="right" > <div>找到相关的双语例句约1760条</div></TD>
+</TR>
+</TABLE>
+<!-- sentence search-->
+<TABLE id="Table1" style="Z-INDEX: 101" cellSpacing="1" cellPadding="1" width="930" align="center" border="0">
+<tr>
+<td width="16%" style="padding-top:10px; padding-bottom:10px" valign=top>
+
+<!--table width="600" style=" border:1px solid #EFF2FC; background-color:#F5F5F5">
+
+<span style="padding:3,3,3,3; font-size:12px ">
+
+</span>
+</table-->
+<!--
+<a href="../jukuu2010/jukuu.php?q=breath&type=bisent" target="_blank"><img src="./images/TiYan_jukuu2010.jpg" width="650" height="50" border="0" /></a>
+<br>
+-->
+<table width="680">
+<tr><td colspan="5">
+
+</td></tr>
+<tr class=e><td vAlign=top>21. </td><td> You can run sprints only so long before you're out of <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 你死命地跑，只能跑那么一段时间，到了喘不上气的时候，只好停下来。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107345088'><a href='javascript:void(0)' onclick='RmdSent(107345088)'><u>好评(13)</u></a></td>
+<td id='report_107345088'><a href='javascript:void()' onclick='ReportSent(107345088)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>22. </td><td> The <b>breath</b> went out of her in a wail, her body shook with violent sobbing. </td></tr>
+<tr class=c><td></td><td> 她恸哭失声，整个身子都随着剧烈的抽泣发起抖来。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107229938'><a href='javascript:void(0)' onclick='RmdSent(107229938)'><u>好评(11)</u></a></td>
+<td id='report_107229938'><a href='javascript:void()' onclick='ReportSent(107229938)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>23. </td><td> Taking a deep <b>breath</b>,she dived into the water. </td></tr>
+<tr class=c><td></td><td> 她深深吸了一口气,跳进水里。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107220057'><a href='javascript:void(0)' onclick='RmdSent(107220057)'><u>好评(11)</u></a></td>
+<td id='report_107220057'><a href='javascript:void()' onclick='ReportSent(107220057)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>24. </td><td> Their <b>breath</b> bloomed the frosty pane. </td></tr>
+<tr class=c><td></td><td> 他们的呼吸使冰冻的窗玻璃凝上一层雾气。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107285168'><a href='javascript:void(0)' onclick='RmdSent(107285168)'><u>好评(11)</u></a></td>
+<td id='report_107285168'><a href='javascript:void()' onclick='ReportSent(107285168)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>25. </td><td> She seemed to unfold like a strong white lily under this genial <b>breath</b> of admiration and homage. </td></tr>
+<tr class=c><td></td><td> 她似乎在这赞赏和尊敬的真诚氛围之中象一朵白色的水仙那样猛烈地开放了。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107206914'><a href='javascript:void(0)' onclick='RmdSent(107206914)'><u>好评(10)</u></a></td>
+<td id='report_107206914'><a href='javascript:void()' onclick='ReportSent(107206914)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>26. </td><td> The audacity of the thing took his <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 这样狂妄的事情使他透不过气来。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107226271'><a href='javascript:void(0)' onclick='RmdSent(107226271)'><u>好评(10)</u></a></td>
+<td id='report_107226271'><a href='javascript:void()' onclick='ReportSent(107226271)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>27. </td><td> The diver first drew a deep <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 跳水员先深深地吸了一口气。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107238788'><a href='javascript:void(0)' onclick='RmdSent(107238788)'><u>好评(11)</u></a></td>
+<td id='report_107238788'><a href='javascript:void()' onclick='ReportSent(107238788)'><u>差评(1)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>28. </td><td> There was an audible emission of <b>breath</b> from the Duke. </td></tr>
+<tr class=c><td></td><td> 这时听到公爵叹了一口气。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107291186'><a href='javascript:void(0)' onclick='RmdSent(107291186)'><u>好评(10)</u></a></td>
+<td id='report_107291186'><a href='javascript:void()' onclick='ReportSent(107291186)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>29. </td><td> The smile on his lips froze, apparently a spasm caught his <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 他唇边的微笑冻结了；显然一阵痉挛使他透不过气来。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107272910'><a href='javascript:void(0)' onclick='RmdSent(107272910)'><u>好评(10)</u></a></td>
+<td id='report_107272910'><a href='javascript:void()' onclick='ReportSent(107272910)'><u>差评(1)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>30. </td><td> The news was so unexpected that I caught my <b>breath</b> from shock. </td></tr>
+<tr class=c><td></td><td> 突如其来的消息把我吓呆了。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107258551'><a href='javascript:void(0)' onclick='RmdSent(107258551)'><u>好评(10)</u></a></td>
+<td id='report_107258551'><a href='javascript:void()' onclick='ReportSent(107258551)'><u>差评(3)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+</table></td>
+<TD width="70%" valign="top"  style="width: 100%; padding-top:10px">
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">英汉词典</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><tr><td><b>breath</b>: [ bre&#952; ]&nbsp;<script language='javascript'>insertaudio('sound/b/breath')</script>&nbsp;</td></tr><tr><td style='font-size:12px;padding-top:10px'></td></tr><tr><td style='font-size:12px'>n. <a href='show-breath+呼吸-0.html'><font color=olive><u>呼吸</u></font> </a><a href='show-breath+气-0.html' style=color:#3d3d3d><font color=olive><u>气</u></font> </a><a href='show-breath+一口气-0.html' style=color:#454545><font color=olive><u>一口气</u></font> </a><a href='show-breath+气息-0.html' style=color:#808080><font color=olive><u>气息</u></font> </a><a href='show-breath+一气-0.html' style=color:#808080><font color=olive><u>一气</u></font> </a><a href='show-breath+生命-0.html' style=color:#808080><font color=olive><u>生命</u></font> </a><a href='show-breath+生气-0.html' style=color:#808080><font color=olive><u>生气</u></font> </a><a href='show-breath+微风-0.html' style=color:#808080><font color=olive><u>微风</u></font> </a><br>v. <a href='show-breath+呼吸-0.html'><font color=olive><u>呼吸</u></font> </a><br>
+</td></tr></div>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">释义分布</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><img src='http://chart.apis.google.com/chart?cht=p&chd=t:16,11,8,8,8,8,8,8,8,16&chs=200x120&chl=%E5%91%BC%E5%90%B8%7C%E4%B8%80%E5%8F%A3%E6%B0%94%7C%E6%B0%94%E6%81%AF%7C%E4%B8%80%E6%B0%94%7C%E7%94%9F%E5%91%BD%7C%E7%94%9F%E6%B0%94%7C%E5%BE%AE%E9%A3%8E%7C%E6%B4%8B%E8%91%B1%7C%E6%81%AF%7C%E5%91%BC%E5%90%B8'/></div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">词性分布</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><img src='http://chart.apis.google.com/chart?cht=p&chd=t:100&chs=200x120&chl=%E5%90%8D%E8%AF%8D'/></div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见介词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-out of+breath-0.html'><span style='color:olive'><u>out of</u></span></a> <a href='show-under+breath-0.html'><span style='color:olive'><u>under</u></span></a> <a href='show-with+breath-0.html'><span style='color:olive'><u>with</u></span></a> <a href='show-short of+breath-0.html'><span style='color:olive'><u>short of</u></span></a> <a href='show-after+breath-0.html'><span style='color:olive'><u>after</u></span></a> <a href='show-like+breath-0.html'><span style='color:olive'><u>like</u></span></a> <a href='show-from+breath-0.html'><span style='color:olive'><u>from</u></span></a> <a href='show-by+breath-0.html'><span style='color:olive'><u>by</u></span></a> <a href='show-as+breath-0.html'><span style='color:olive'><u>as</u></span></a> <a href='show-without+breath-0.html'><span style='color:olive'><u>without</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见形容词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-deep+breath-0.html'><span style='color:olive'><u>deep</u></span></a> <a href='show-same+breath-0.html'><span style='color:olive'><u>same</u></span></a> <a href='show-last+breath-0.html'><span style='color:olive'><u>last</u></span></a> <a href='show-long+breath-0.html'><span style='color:olive'><u>long</u></span></a> <a href='show-bad+breath-0.html'><span style='color:olive'><u>bad</u></span></a> <a href='show-first+breath-0.html'><span style='color:olive'><u>first</u></span></a> <a href='show-great+breath-0.html'><span style='color:olive'><u>great</u></span></a> <a href='show-thin+breath-0.html'><span style='color:olive'><u>thin</u></span></a> <a href='show-warm+breath-0.html'><span style='color:olive'><u>warm</u></span></a> <a href='show-fresh+breath-0.html'><span style='color:olive'><u>fresh</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见动词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-take+breath-0.html'><span style='color:olive'><u>take</u></span></a> <a href='show-hold+breath-0.html'><span style='color:olive'><u>hold</u></span></a> <a href='show-draw+breath-0.html'><span style='color:olive'><u>draw</u></span></a> <a href='show-catch+breath-0.html'><span style='color:olive'><u>catch</u></span></a> <a href='show-waste+breath-0.html'><span style='color:olive'><u>waste</u></span></a> <a href='show-save+breath-0.html'><span style='color:olive'><u>save</u></span></a> <a href='show-feel+breath-0.html'><span style='color:olive'><u>feel</u></span></a> <a href='show-get+breath-0.html'><span style='color:olive'><u>get</u></span></a> <a href='show-have+breath-0.html'><span style='color:olive'><u>have</u></span></a> <a href='show-let out+breath-0.html'><span style='color:olive'><u>let out</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<!--a href='submit.php'><img border=0 src="images/liju.gif"></a-->
+<br>
+
+
+
+
+</TD>
+</table>
+</TR>
+</table><p align='center'>
+<a href='show-breath-1.html'>上一页</a><a href='show-breath-0.html'>[1]</a><a href='show-breath-1.html'>[2]</a>&nbsp;&nbsp;<span><font color=#000000>3</font></span>&nbsp;&nbsp;<a href='show-breath-3.html'>[4]</a><a href='show-breath-4.html'>[5]</a><a href='show-breath-5.html'>[6]</a><a href='show-breath-6.html'>[7]</a><a href='show-breath-7.html'>[8]</a><a href='show-breath-8.html'>[9]</a><a href='show-breath-9.html'>[10]</a><a href='show-breath-3.html'>下一页</a>
+</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- new -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4785236016322524"
+     data-ad-slot="3193640830"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+<div class="div1">
+  <form name="form1" method="get" action="search.php">
+  <table cellspacing='0' cellpadding='0' class='ftable'>
+  <tr>
+  <td width='200'>&nbsp;</td>
+  <td width='288'><input name="q" type="text" class="input1" value= "breath" style="width:280px;top:0px">&nbsp;&nbsp</td>
+  <td width='80'><input name="" type="submit" class="input2" value="句酷一下" style="top:0px"></td>
+  <td width='68'><a href="/quality_form.html">与句酷对话</a></td>
+  <td>&nbsp;</td>
+  </tr>
+  </table>
+    </form>
+</div><br/>
+<p align=center><FONT size=2><A style="FONT-FAMILY: arial,sans-serif"
+href="help/001.htm" target="_blank">使用帮助</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/more.htm" target="_blank">句酷大全</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/mianze.htm" target="_blank">免责声明</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/hezuo.htm" target="_blank">合作联盟</A></FONT></p>
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/2320338.js"></script>
+<noscript><a href="http://www.51.la/?2320338" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/2320338.asp" style="border:none" /></a></noscript>
+</body>
+</html>
+
+<html>
+<HEAD>
+<meta http-equiv="content-type" content="text/html; charset=utf-8">
+<meta name="keywords" content="免费在线翻译,例句搜索">
+<meta name="description" content="句酷搜索引擎为英语学习者提供免费在线词典,在线翻译,例句搜索(study native English)">
+<title>'breath'的翻译、'breath'的解释、双语例句、在线造句 - 句酷中英双语例句</title>
+<LINK href="css/main.css" type="text/css" rel="stylesheet">
+<link rel="shortcut icon" href="images/logo.ico" />
+<script type="text/javascript" src="js/jquery.js"></script>
+<script type="text/javascript" src="js/thickbox.js"></script>
+<script type="text/javascript" src="js/viewpy.js"></script>
+<link rel="stylesheet" href="css/thickbox.css" type="text/css" media="screen" >
+<link rel="stylesheet" href="css/suggest1.css" type="text/css" media="screen">
+<script type="text/javascript" src="js/suggest.js"></script>
+</HEAD>
+<body>
+<div onClick="hideSuggestions();">
+<form id="Frm1" style="MARGIN: 0px" action="search.php" method="get">
+<table width="930" align="center">
+<tr>
+<td width="170"><FONT face="宋体"><A href="index.php"><img src="images/search.gif" border="0"></A></FONT></td>
+<TD width="*">
+<table height="100%" width="710" border="0">
+<tr>
+<td align="right">
+</td>
+</tr>
+<tr valign=top>
+<td valign="middle">
+<input onmouseover="this.focus()" onfocus="this.select()" autocomplete="off" size=40  name="q" type="text" class="input1" id="q" maxlength="100" style="width:280px;" value="breath" onKeyUp="handleKeyUp(event);"/>&nbsp;
+<!-- <input type="submit" value="句酷一下" id="ButtonSearch" class="input2" />&nbsp;<span style="position:relative; left:10px; top:10px"><a href="/help/002.htm"><u>帮助</u></a><a href="/help/02.htm" target="_blank" style="color:red"><u>招聘英语教师和语料库研究员</u></a> -->
+<input type="submit" value="句酷一下" id="ButtonSearch" class="input2" />&nbsp;<span style="position:relative; left:10px; top:10px"><a href="/help/002.htm"><u>帮助</u></a><a href="/worddetail/more" target="_blank" style="color:red"><u>单词辨析</u></a>
+
+<span class="conn"><a href="login.php">登录</a>|<a href="reg.php">注册</a></span>
+</form>
+</td>
+<td>
+</tr>
+</table>
+<div class="index_suggest_div">
+<div  id="scroll3">
+<div id="scroll">
+<div id="suggest"></div>
+</div>
+</div>
+</div>
+</TD>
+</tr>
+</table><TABLE id="Table2" cellSpacing="0" cellPadding="0" width="930" align="center" bgColor="#ffffff">
+<TR id="TR1" align="center" bgColor="#D9E1F7" runat="server">
+<TD width="100" bgColor="#D9E1F7">&nbsp;&nbsp;&nbsp;</TD>
+<TD class="head" style="font-size:12px;COLOR: #000000" align="right" > <div>找到相关的双语例句约1760条</div></TD>
+</TR>
+</TABLE>
+<!-- sentence search-->
+<TABLE id="Table1" style="Z-INDEX: 101" cellSpacing="1" cellPadding="1" width="930" align="center" border="0">
+<tr>
+<td width="16%" style="padding-top:10px; padding-bottom:10px" valign=top>
+
+<!--table width="600" style=" border:1px solid #EFF2FC; background-color:#F5F5F5">
+
+<span style="padding:3,3,3,3; font-size:12px ">
+
+</span>
+</table-->
+<!--
+<a href="../jukuu2010/jukuu.php?q=breath&type=bisent" target="_blank"><img src="./images/TiYan_jukuu2010.jpg" width="650" height="50" border="0" /></a>
+<br>
+-->
+<table width="680">
+<tr><td colspan="5">
+
+</td></tr>
+<tr class=e><td vAlign=top>31. </td><td> "I can hold my <b>breath</b> thus for hours," said the Guru. </td></tr>
+<tr class=c><td></td><td> “我可以这样一连几个小时屏住呼吸，”法师说。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107001704'><a href='javascript:void(0)' onclick='RmdSent(107001704)'><u>好评(28)</u></a></td>
+<td id='report_107001704'><a href='javascript:void()' onclick='ReportSent(107001704)'><u>差评(2)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>32. </td><td> He was quite annoyed,and went off muttering threats under his <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 他很恼怒,低声咕哝着威胁的话走掉了。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107093882'><a href='javascript:void(0)' onclick='RmdSent(107093882)'><u>好评(18)</u></a></td>
+<td id='report_107093882'><a href='javascript:void()' onclick='ReportSent(107093882)'><u>差评(1)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>33. </td><td> His <b>breath</b> sharpened as the words blurred. </td></tr>
+<tr class=c><td></td><td> 字迹渐渐模糊起来，他的呼吸也渐渐急促起来。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107101624'><a href='javascript:void(0)' onclick='RmdSent(107101624)'><u>好评(11)</u></a></td>
+<td id='report_107101624'><a href='javascript:void()' onclick='ReportSent(107101624)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>34. </td><td> Dill breathed his patient <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 迪尔慢吞吞地吐了一口气。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107042413'><a href='javascript:void(0)' onclick='RmdSent(107042413)'><u>好评(10)</u></a></td>
+<td id='report_107042413'><a href='javascript:void()' onclick='ReportSent(107042413)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>35. </td><td> "Now wouldn't that rattle you?" he ejaculated under his <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> “这一下不把你弄糊涂了吗？”他低声叫道。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107003043'><a href='javascript:void(0)' onclick='RmdSent(107003043)'><u>好评(10)</u></a></td>
+<td id='report_107003043'><a href='javascript:void()' onclick='ReportSent(107003043)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>36. </td><td> You can see people's <b>breath</b> on a cold day. </td></tr>
+<tr class=c><td></td><td> 冷天能看到人们呼出的空气. </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107345104'><a href='javascript:void(0)' onclick='RmdSent(107345104)'><u>好评(10)</u></a></td>
+<td id='report_107345104'><a href='javascript:void()' onclick='ReportSent(107345104)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>37. </td><td> He had to sit up to catch his <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 他不得不坐起来喘气。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107072573'><a href='javascript:void(0)' onclick='RmdSent(107072573)'><u>好评(10)</u></a></td>
+<td id='report_107072573'><a href='javascript:void()' onclick='ReportSent(107072573)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>38. </td><td> Claire felt her warm, panting <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 克莱尔感到了她温暖的，喘吁吁的呼吸。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107037631'><a href='javascript:void(0)' onclick='RmdSent(107037631)'><u>好评(10)</u></a></td>
+<td id='report_107037631'><a href='javascript:void()' onclick='ReportSent(107037631)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>39. </td><td> His <b>breath</b> reeked of tobacco. </td></tr>
+<tr class=c><td></td><td> 他口中带有烟草的臭味. </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107101622'><a href='javascript:void(0)' onclick='RmdSent(107101622)'><u>好评(10)</u></a></td>
+<td id='report_107101622'><a href='javascript:void()' onclick='ReportSent(107101622)'><u>差评(0)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+<tr class=e><td vAlign=top>40. </td><td> After the long race,the runner was panting for <b>breath</b>. </td></tr>
+<tr class=c><td></td><td> 长跑之后,那个运动员正在喘气。 </td></tr>
+<tr class=s>
+<td></td>
+<td><table width="100%" border="0" cellspacing="0" cellpadding="0"><tr>
+<td width="75%"> -- 来源 -- 英汉 - 辞典例句 </td>
+<td id='rmd_107016652'><a href='javascript:void(0)' onclick='RmdSent(107016652)'><u>好评(10)</u></a></td>
+<td id='report_107016652'><a href='javascript:void()' onclick='ReportSent(107016652)'><u>差评(1)</u></a></td>
+<td width="3%">&nbsp;</td>
+</tr>
+</table></td></tr>
+<tr><td>&nbsp;</td><td></td></tr>
+</table></td>
+<TD width="70%" valign="top"  style="width: 100%; padding-top:10px">
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">英汉词典</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><tr><td><b>breath</b>: [ bre&#952; ]&nbsp;<script language='javascript'>insertaudio('sound/b/breath')</script>&nbsp;</td></tr><tr><td style='font-size:12px;padding-top:10px'></td></tr><tr><td style='font-size:12px'>n. <a href='show-breath+呼吸-0.html'><font color=olive><u>呼吸</u></font> </a><a href='show-breath+气-0.html' style=color:#3d3d3d><font color=olive><u>气</u></font> </a><a href='show-breath+一口气-0.html' style=color:#454545><font color=olive><u>一口气</u></font> </a><a href='show-breath+气息-0.html' style=color:#808080><font color=olive><u>气息</u></font> </a><a href='show-breath+一气-0.html' style=color:#808080><font color=olive><u>一气</u></font> </a><a href='show-breath+生命-0.html' style=color:#808080><font color=olive><u>生命</u></font> </a><a href='show-breath+生气-0.html' style=color:#808080><font color=olive><u>生气</u></font> </a><a href='show-breath+微风-0.html' style=color:#808080><font color=olive><u>微风</u></font> </a><br>v. <a href='show-breath+呼吸-0.html'><font color=olive><u>呼吸</u></font> </a><br>
+</td></tr></div>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">释义分布</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><img src='http://chart.apis.google.com/chart?cht=p&chd=t:16,11,8,8,8,8,8,8,8,16&chs=200x120&chl=%E5%91%BC%E5%90%B8%7C%E4%B8%80%E5%8F%A3%E6%B0%94%7C%E6%B0%94%E6%81%AF%7C%E4%B8%80%E6%B0%94%7C%E7%94%9F%E5%91%BD%7C%E7%94%9F%E6%B0%94%7C%E5%BE%AE%E9%A3%8E%7C%E6%B4%8B%E8%91%B1%7C%E6%81%AF%7C%E5%91%BC%E5%90%B8'/></div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">词性分布</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><img src='http://chart.apis.google.com/chart?cht=p&chd=t:100&chs=200x120&chl=%E5%90%8D%E8%AF%8D'/></div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见介词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-out of+breath-0.html'><span style='color:olive'><u>out of</u></span></a> <a href='show-under+breath-0.html'><span style='color:olive'><u>under</u></span></a> <a href='show-with+breath-0.html'><span style='color:olive'><u>with</u></span></a> <a href='show-short of+breath-0.html'><span style='color:olive'><u>short of</u></span></a> <a href='show-after+breath-0.html'><span style='color:olive'><u>after</u></span></a> <a href='show-like+breath-0.html'><span style='color:olive'><u>like</u></span></a> <a href='show-from+breath-0.html'><span style='color:olive'><u>from</u></span></a> <a href='show-by+breath-0.html'><span style='color:olive'><u>by</u></span></a> <a href='show-as+breath-0.html'><span style='color:olive'><u>as</u></span></a> <a href='show-without+breath-0.html'><span style='color:olive'><u>without</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见形容词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-deep+breath-0.html'><span style='color:olive'><u>deep</u></span></a> <a href='show-same+breath-0.html'><span style='color:olive'><u>same</u></span></a> <a href='show-last+breath-0.html'><span style='color:olive'><u>last</u></span></a> <a href='show-long+breath-0.html'><span style='color:olive'><u>long</u></span></a> <a href='show-bad+breath-0.html'><span style='color:olive'><u>bad</u></span></a> <a href='show-first+breath-0.html'><span style='color:olive'><u>first</u></span></a> <a href='show-great+breath-0.html'><span style='color:olive'><u>great</u></span></a> <a href='show-thin+breath-0.html'><span style='color:olive'><u>thin</u></span></a> <a href='show-warm+breath-0.html'><span style='color:olive'><u>warm</u></span></a> <a href='show-fresh+breath-0.html'><span style='color:olive'><u>fresh</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<table width="230" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #EFF2FC; margin-bottom:10px" >
+  <tr>
+    <td colspan="3" class="xtitle">前面的常见动词</td>
+  </tr>
+  <tr>
+    <td width="3%" rowspan="2" >&nbsp;</td>
+    <td width="95%" bgcolor="#FFFFFF" class="xtd"><table width="100%" border="0" cellspacing="0" cellpadding="0">
+	<tr><td><div style='white-space:normal; width:180px; letter-spacing:1px; color:olive'><a href='show-take+breath-0.html'><span style='color:olive'><u>take</u></span></a> <a href='show-hold+breath-0.html'><span style='color:olive'><u>hold</u></span></a> <a href='show-draw+breath-0.html'><span style='color:olive'><u>draw</u></span></a> <a href='show-catch+breath-0.html'><span style='color:olive'><u>catch</u></span></a> <a href='show-waste+breath-0.html'><span style='color:olive'><u>waste</u></span></a> <a href='show-save+breath-0.html'><span style='color:olive'><u>save</u></span></a> <a href='show-feel+breath-0.html'><span style='color:olive'><u>feel</u></span></a> <a href='show-get+breath-0.html'><span style='color:olive'><u>get</u></span></a> <a href='show-have+breath-0.html'><span style='color:olive'><u>have</u></span></a> <a href='show-let out+breath-0.html'><span style='color:olive'><u>let out</u></span></a> </div></td></tr>
+    </table>
+	<td width="3%"  height="3%">&nbsp;</td>
+  <tr>
+    <td colspan="3" height="4"></td>
+  </tr>
+</table>
+<!--a href='submit.php'><img border=0 src="images/liju.gif"></a-->
+<br>
+
+
+
+
+</TD>
+</table>
+</TR>
+</table><p align='center'>
+<a href='show-breath-2.html'>上一页</a><a href='show-breath-0.html'>[1]</a><a href='show-breath-1.html'>[2]</a><a href='show-breath-2.html'>[3]</a>&nbsp;&nbsp;<span><font color=#000000>4</font></span>&nbsp;&nbsp;<a href='show-breath-4.html'>[5]</a><a href='show-breath-5.html'>[6]</a><a href='show-breath-6.html'>[7]</a><a href='show-breath-7.html'>[8]</a><a href='show-breath-8.html'>[9]</a><a href='show-breath-9.html'>[10]</a><a href='show-breath-4.html'>下一页</a>
+</p>
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- new -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:728px;height:90px"
+     data-ad-client="ca-pub-4785236016322524"
+     data-ad-slot="3193640830"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+
+<div class="div1">
+  <form name="form1" method="get" action="search.php">
+  <table cellspacing='0' cellpadding='0' class='ftable'>
+  <tr>
+  <td width='200'>&nbsp;</td>
+  <td width='288'><input name="q" type="text" class="input1" value= "breath" style="width:280px;top:0px">&nbsp;&nbsp</td>
+  <td width='80'><input name="" type="submit" class="input2" value="句酷一下" style="top:0px"></td>
+  <td width='68'><a href="/quality_form.html">与句酷对话</a></td>
+  <td>&nbsp;</td>
+  </tr>
+  </table>
+    </form>
+</div><br/>
+<p align=center><FONT size=2><A style="FONT-FAMILY: arial,sans-serif"
+href="help/001.htm" target="_blank">使用帮助</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/more.htm" target="_blank">句酷大全</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/mianze.htm" target="_blank">免责声明</A>&nbsp;-&nbsp;<A
+href="http://www.jukuu.com/hezuo.htm" target="_blank">合作联盟</A></FONT></p>
+<script language="javascript" type="text/javascript" src="http://js.users.51.la/2320338.js"></script>
+<noscript><a href="http://www.51.la/?2320338" target="_blank"><img alt="&#x6211;&#x8981;&#x5566;&#x514D;&#x8D39;&#x7EDF;&#x8BA1;" src="http://img.users.51.la/2320338.asp" style="border:none" /></a></noscript>
+</body>
+</html>

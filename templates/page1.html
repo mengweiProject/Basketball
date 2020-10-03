@@ -1,0 +1,220 @@
+
+<!DOCTYPE html>
+<!-- saved from url=(0032)https://www.jq22.com/yanshi22626 -->
+<html style="padding-bottom: 54px;"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="renderer" content="webkit">
+<title>NBA中文网</title>
+<meta name="description" content="1.可切缩小至侧栏，自适应屏幕滚动，缩小后，弹出菜单超出屏幕自动移至可视范围，适用后台管理，2.缺点目前未适配IE，只适配了Chrome。">
+<meta name="keywords" content="菜单,左侧响应式导航菜单,三级导航菜单,原创插件,jquery,jquery插件">
+<link rel="Shortcut icon" href="https://www.jq22.com/favicon.ico">
+<link href="/static/jQuery左侧导航_三级菜单(原创)_files/demo.css" rel="stylesheet" media="all">
+<!--[if IE]>
+
+			<style type="text/css">
+				li.purchase a {
+					padding-top: 5px;
+					background-position: 0px -4px;
+				}
+
+				li.remove_frame a {
+					padding-top: 5px;
+					background-position: 0px -3px;
+				}
+			</style>
+
+		<![endif]-->
+<style>
+        .fdad a{color:#000;display:inline-block;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;}.fdad{top:66px;}.xgcj li{font-size:14px;line-height:20px;list-style-type:none;transition:all 1s ease 0s;border-radius:5px;}.xgcj li:hover{background-color:#e4e4e4;}.xgcj{background-color:rgba(255,255,255,.3);overflow-x:hidden;}.xgcj ul{padding:10px}.xgcj h3{line-height:30px;}.xgcj p{padding-left:20px;font-size:13px;display:none;}.xgcj span{font-family:"宋体";}.xgcj li:hover p{display:block;}
+    </style>
+<script src="/static/jQuery左侧导航_三级菜单(原创)_files/osd.js"></script><script src="/static/jQuery左侧导航_三级菜单(原创)_files/hm.js"></script><script src="/static/jQuery左侧导航_三级菜单(原创)_files/f(4).txt"></script><script src="/static/jQuery左侧导航_三级菜单(原创)_files/f(5).txt" id="google_shimpl"></script><script type="text/javascript">
+        var txt = "https://www.jq22.com/demo/left-side201912092331";
+        window.g1 = txt.substr(0, 3);
+        window.g2 = txt.substr(0, 19);
+    </script>
+<script src="/static/jQuery左侧导航_三级菜单(原创)_files/pace.min.js" charset="gbk"></script>
+<link href="/static/jQuery左侧导航_三级菜单(原创)_files/pace-theme-barber-shop.css" rel="stylesheet">
+<script src="/static/jQuery左侧导航_三级菜单(原创)_files/jquery.min.js"></script>
+<script src="/static/jQuery左侧导航_三级菜单(原创)_files/jquery.qrcode.min.js"></script>
+<script type="text/javascript">
+        var dqfl = "导航";
+        var theme_list_open = false;
+
+        $(document).ready(function () {
+            function fixHeight() {
+                var headerHeight = $("#switcher").height();
+                $("#iframe").attr("height", $(window).height() - 54 + "px");
+            }
+            $(window).resize(function () {
+                fixHeight();
+            }).resize();
+
+            $('.icon-monitor').addClass('active');
+
+            $(".icon-mobile-3").click(function () {
+                $("#by").css("overflow-y", "auto");
+                $('#iframe-wrap').removeClass().addClass('mobile-width-3');
+                $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+                $(this).addClass('active');
+                return false;
+            });
+
+            $(".icon-mobile-2").click(function () {
+                $("#by").css("overflow-y", "auto");
+                $('#iframe-wrap').removeClass().addClass('mobile-width-2');
+                $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+                $(this).addClass('active');
+                return false;
+            });
+
+
+            $(".icon-mobile-1").click(function () {
+                $("#by").css("overflow-y", "auto");
+                $('#iframe-wrap').removeClass().addClass('mobile-width');
+                $('.icon-tablet,.icon-mobile,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+                $(this).addClass('active');
+                return false;
+            });
+
+            $(".icon-tablet").click(function () {
+                $("#by").css("overflow-y", "auto");
+                $('#iframe-wrap').removeClass().addClass('tablet-width');
+                $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+                $(this).addClass('active');
+                return false;
+            });
+
+            $(".icon-monitor").click(function () {
+                $("#by").css("overflow-y", "hidden");
+                $('#iframe-wrap').removeClass().addClass('full-width');
+                $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+                $(this).addClass('active');
+                return false;
+            });
+
+            if (dqfl.indexOf("APP模板") != -1) {
+                $("#by").css("overflow-y", "auto");
+                $('#iframe-wrap').removeClass().addClass('mobile-width-2');
+                $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+                $(this).addClass('active');
+                return false;
+            }
+        });
+    </script>
+<script type="text/javascript">
+        function Responsive($a) {
+            if ($a == true) $("#Device").css("opacity", "100");
+            if ($a == false) $("#Device").css("opacity", "0");
+            $('#iframe-wrap').removeClass().addClass('full-width');
+            $('.icon-tablet,.icon-mobile-1,.icon-monitor,.icon-mobile-2,.icon-mobile-3').removeClass('active');
+            $(this).addClass('active');
+            return false;
+        };
+    </script>
+<link rel="preload" href="/static/jQuery左侧导航_三级菜单(原创)_files/f(6).txt" as="script"><script type="text/javascript" src="/static/jQuery左侧导航_三级菜单(原创)_files/f(6).txt"></script></head>
+<body id="by" style="overflow-y: hidden" class="  pace-done"><div class="pace  pace-inactive"><div class="pace-progress" data-progress-text=" 100%" data-progress="99" style="width: 100%;">
+  <div class="pace-progress-inner"></div>
+</div>
+<div class="pace-activity"></div></div>
+<div id="switcher">
+<div class="center">
+<ul>
+<li class="logoTop" id="sj2">NBA中文网</li>
+<div id="Device">
+<li class="device-monitor"><a href="javascript:">
+<div class="icon-monitor active">
+</div>
+</a></li>
+<li class="device-mobile"><a href="javascript:">
+<div class="icon-tablet">
+</div>
+</a></li>
+<li class="device-mobile"><a href="javascript:">
+<div class="icon-mobile-1">
+</div>
+</a></li>
+<li class="device-mobile-2"><a href="javascript:">
+<div class="icon-mobile-2">
+</div>
+</a></li>
+<li class="device-mobile-3"><a href="javascript:">
+<div class="icon-mobile-3">
+</div>
+</a></li>
+</div>
+<!--<li class="top2" id="sj"><a href="https://www.jq22.com/yanshi22626#">手机二维码预览</a><div class="vm">-->
+<!--<div id="output"><canvas width="150" height="150"></canvas></div>-->
+<!--<p style="color: #808080">扫一扫，直接在手机上打开</p>-->
+<!--</div>-->
+</li>
+<script>
+                    jQuery('#output').qrcode({ width: 150, height: 150, text: window.location.href });
+                </script>
+<li class="remove_frame" style="display:n"><a href="/static/jQuery左侧导航_三级菜单(原创)_files/left-side201912092331.html" title="移除框架"></a></li>
+</ul>
+</div>
+</div>
+<div id="iframe-wrap">
+<iframe id="iframe" src="/static/jQuery左侧导航_三级菜单(原创)_files/left-side201912092331.html" frameborder="0" width="100%" height="867px"></iframe>
+</div>
+<div class="fdad" style="display: none;">
+<div class="fdl">Advertisement</div>
+<div class="fdr">x</div>
+<div class="fdadnr">
+<script async="" src="/static/jQuery左侧导航_三级菜单(原创)_files/f(7).txt"></script>
+
+<ins class="adsbygoogle" style="display:inline-block;width:336px;height:280px" data-ad-client="ca-pub-2935286260943234" data-ad-slot="6063645905" data-adsbygoogle-status="done"><ins id="aswift_0_expand" style="display:inline-table;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px;background-color:transparent;"><ins id="aswift_0_anchor" style="display:block;border:none;height:280px;margin:0;padding:0;position:relative;visibility:visible;width:336px;background-color:transparent;"><iframe id="aswift_0" name="aswift_0" style="left:0;position:absolute;top:0;border:0;width:336px;height:280px;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" width="336" height="280" frameborder="0" src="/static/jQuery左侧导航_三级菜单(原创)_files/ads.html" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!1" data-google-query-id="CLSSztGu5usCFc3NTAIdkfULMg" data-load-complete="true"></iframe></ins></ins></ins>
+<script>
+                (adsbygoogle = window.adsbygoogle || []).push({});
+            </script>
+<div class="xgcj">
+<ul>
+<div style="width:100%">
+<div style="float:left"><h3>相关插件</h3></div>
+<div style="clear: left;"></div>
+</div>
+<li>
+<a href="https://www.jq22.com/jquery-info22165"><span>&gt;</span> jQuery nav导航（原创）</a>
+<p>基于jquery的导航，可折叠可展开。</p>
+</li>
+<li>
+<a href="https://www.jq22.com/jquery-info18094"><span>&gt;</span> jQuery旅游网站导航</a>
+<p>简单的旅游网站导航，加入了ie6对png的支持</p>
+</li>
+<li>
+<a href="https://www.jq22.com/jquery-info1750"><span>&gt;</span> jquery弹性竖导航网页菜单</a>
+<p>此代码内容为jquery弹性竖导航网页菜单，属于站长常用代码，非常漂亮！</p>
+</li>
+<li>
+<a href="https://www.jq22.com/jquery-info16673"><span>&gt;</span> jQuery条件锚点导航</a>
+<p>自动定位锚点导航</p>
+</li>
+<li>
+<a href="https://www.jq22.com/jquery-info15109"><span>&gt;</span> Css多级侧边栏导航</a>
+<p>纯Css多级侧边栏导航</p>
+</li>
+</ul>
+</div>
+</div>
+<script type="text/javascript">
+                $(document).ready(function () {
+                    $(".fdr").click(function () {
+                        $(".fdad").hide();
+                    });
+                });
+    </script>
+<script>
+        var _hmt = _hmt || [];
+        (function () {
+            var hm = document.createElement("script");
+            hm.src = "//hm.baidu.com/hm.js?b3a3fc356d0af38b811a0ef8d50716b8";
+            var s = document.getElementsByTagName("script")[0];
+            s.parentNode.insertBefore(hm, s);
+        })();
+    </script>
+
+
+</div><ins class="adsbygoogle adsbygoogle-noablate" data-adsbygoogle-status="done" style="display: none !important;"><ins id="aswift_1_expand" style="display:inline-table;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><ins id="aswift_1_anchor" style="display:block;border:none;height:0px;margin:0;padding:0;position:relative;visibility:visible;width:0px;background-color:transparent;"><iframe id="aswift_1" name="aswift_1" style="left:0;position:absolute;top:0;border:0;width:undefinedpx;height:undefinedpx;" sandbox="allow-forms allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts allow-top-navigation-by-user-activation" frameborder="0" src="/static/jQuery左侧导航_三级菜单(原创)_files/ads(1).html" marginwidth="0" marginheight="0" vspace="0" hspace="0" allowtransparency="true" scrolling="no" allowfullscreen="true" data-google-container-id="a!1" data-load-complete="true"></iframe></ins></ins></ins><iframe id="google_osd_static_frame_5608447852897" name="google_osd_static_frame" style="display: none; width: 0px; height: 0px;" src="/static/jQuery左侧导航_三级菜单(原创)_files/saved_resource(1).html"></iframe></body><iframe id="google_esf" name="google_esf" src="/static/jQuery左侧导航_三级菜单(原创)_files/zrt_lookup.html" data-ad-client="ca-pub-2935286260943234" style="display: none;"></iframe></html>

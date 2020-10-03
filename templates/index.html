@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>index</title>
+    <link href="/static/plugins/bootstrap-4.5.2-dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/static/css/dsb" rel="stylesheet">
+</head>
+<body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Project name</a>
+        </div>
+        <div id="navbar" class="navbar-collapse collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li><a href="#">Dashboard</a></li>
+            <li><a href="#">Settings</a></li>
+            <li><a href="#">Profile</a></li>
+            <li><a href="#">Help</a></li>
+          </ul>
+          <form class="navbar-form navbar-right">
+            <input type="text" class="form-control" placeholder="Search...">
+          </form>
+        </div>
+      </div>
+    </nav>
+
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-6 col-md-2">
+            <li><a href="/main/">主页</a></li>
+            <li><a href="#">搜索</a></li>
+            <li><a href="#">管理员页面</a></li>
+            <li><a href="/login/">退出</a></li>
+
+
+
+        </div>
+        <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
+          <h1 class="page-header">Dashboard</h1>
+
+          <div class="row placeholders">
+            <div class="col-xs-6 col-sm-3 placeholder">
+              <img src="/static/imgs/team_simp.jpg" width="200" height="200" class="img-responsive">
+              <h4><a href="/team_list/">球队</a></h4>
+              <span class="text-muted">Something else</span>
+            </div>
+            <div class="col-xs-6 col-sm-3 placeholder">
+              <img src="/static/imgs/timg.jpg" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
+              <h4>球员</h4>
+              <span class="text-muted">Something else</span>
+            </div>
+            <div class="col-xs-6 col-sm-3 placeholder">
+              <img src="/static/imgs/team_area.jpg" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
+              <h4>新闻</h4>
+              <span class="text-muted">Something else</span>
+            </div>
+            <div class="col-xs-6 col-sm-3 placeholder">
+              <img src="data:image/gif;base64,R0lGODlhAQABAIAAAHd3dwAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" width="200" height="200" class="img-responsive" alt="Generic placeholder thumbnail">
+              <h4>排名</h4>
+              <span class="text-muted">Something else</span>
+            </div>
+          </div>
+
+          <h2 class="sub-header">球员信息</h2>
+          <div class="table-responsive">
+            <table class="table table-border table-hover">
+              <thead>
+                <tr>
+                  <th>姓名</th>
+                  <th>号码</th>
+                  <th>身高</th>
+                  <th>体重</th>
+                  <th>位置</th>
+                  <th>国籍</th>
+                  <th>操作</th>
+                </tr>
+              </thead>
+              <tbody>
+              {% for i in players %}
+              <!--<h3>{{ i.NAME }}{{ i.AGE }}{{ i.HEIGHT }}{{ i.POSITION }}{{ i.NATIONALITY }}</h3>-->
+
+              <tr>
+                  <td>{{ i.NAME }}</td>
+                  <td>{{ i.AGE }}</td>
+                  <td>{{ i.NUMBER }}</td>
+                  <td>{{ i.TEAM }}</td>
+                  <td>{{ i.POSITION }}</td>
+                  <td>{{ i.NATIONALITY }}</td>
+                  <td>
+                    <a href="/del_player/?id={{ i.ID }}" class="btn btn-danger">删除</a>
+                    <a href="/modify_player/?id={{ i.ID }}" class="btn btn-info">修改</a>
+                  </td>
+              </tr>
+              {% endfor  %}
+              </tbody>
+            </table>
+            <h3>
+              <a href="/add_player">新增</a>
+            </h3>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+    <!-- Bootstrap core JavaScript
+    ================================================== -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="https://cdn.bootcss.com/jquery/1.12.4/jquery.min.js"></script>
+    <script>window.jQuery || document.write('<script src="../../assets/js/vendor/jquery.min.js"><\/script>')</script>
+    <script src="https://cdn.bootcss.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <!-- Just to make our placeholder images work. Don't actually copy the next line! -->
+    <script src="../../assets/js/vendor/holder.min.js"></script>
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <script src="../../assets/js/ie10-viewport-bug-workaround.js"></script>
+
+
+</body>
+</html>
+
+
